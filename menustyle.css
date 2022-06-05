@@ -1,0 +1,31 @@
+.menu {
+    text-align: center;
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu p a {
+    color: red;
+    font-size: 24px;
+}
+.menu h1 {
+    text-decoration: none;
+    color: green;
+    text-decoration: underline;
+    text-decoration-color: darkviolet;
+    text-decoration-thickness: 4px;
+    font-size: 56px;
+}
+.menu h4 {
+    text-decoration: none;
+    color: darkgreen;
+  
+    text-decoration-thickness: 4px;
+    font-size: 15px;
+}
+.menu h6 {
+    text-decoration: none;
+    color: purple;
+  
+    text-decoration-thickness: 4px;
+    font-size: 15px;
+}
